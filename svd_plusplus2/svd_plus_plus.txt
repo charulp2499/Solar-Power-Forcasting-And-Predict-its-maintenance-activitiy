@@ -1,0 +1,10 @@
+https://www.mdpi.com/2078-2489/11/7/369
+
+https://www.quora.com/Whats-the-difference-between-SVD-and-SVD++
+
+https://surprise.readthedocs.io/en/stable/matrix_factorization.html#surprise.prediction_algorithms.matrix_factorization.SVDpp
+
+https://www.hindawi.com/journals/mpe/2017/1975719/
+
+https://link.springer.com/chapter/10.1007/978-981-10-0421-6_4
+
